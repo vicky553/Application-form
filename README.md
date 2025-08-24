@@ -1,5 +1,5 @@
 # Application-form
-📋 A simple and user-friendly Application Form built using HTML, CSS, and JavaScript. This project demonstrates form design, input validation, and responsive layout. Perfect for beginners learning web development basics and small projects. 🚀
+📋 A simple and user-friendly Application Form built using HTML, CSS,. This project demonstrates form design, input validation, and responsive layout. Perfect for beginners learning web development basics and small projects. 🚀
 🚀 Features
 
 Clean and simple UI
@@ -16,7 +16,7 @@ HTML – Structure of the form
 
 CSS – Styling and layout
 
-JavaScript – Validation and interactivity
+
 
 
 
@@ -27,7 +27,7 @@ JavaScript – Validation and interactivity
 📂 Project Structure
 ├── index.html   # Main form page  
 ├── style.css    # Form styling  
-└── script.js    # Form validation logic  
+ 
 
 
 
